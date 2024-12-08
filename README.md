@@ -3,16 +3,16 @@
 Diese Repetitionsaufgaben behandeln die Inhalte der bisherigen vier Go-Blöcke (Git-Repositories und YouTube-Playlisten):
 
 1. Variablen, primitive Datentypen, formatierte Ausgabe
-    - [Git-Repository](https://code.frickelbude.ch/m346/go-1-vars-types-output)
+    - [Git-Repository](https://github.com/patrickbucher/m346-go-exercises/blob/master/go-1-exercises.md)
     - [YouTube-Playlist](https://www.youtube.com/watch?v=kDhThXZfISk&list=PLoID6wkkuS3fcgdzz48T38c7HHFSFsJtL)
 2. Datenstrukturen: Strukturen, Slices, Maps
-    - [Git-Repository](https://code.frickelbude.ch/m346/go-2-structs-slices-maps)
+    - [Git-Repository](https://github.com/patrickbucher/m346-go-exercises/blob/master/go-2-exercises.md)
     - [YouTube-Playlist](https://www.youtube.com/watch?v=jwjns7HG1fs&list=PLoID6wkkuS3eGWAavAf4rTRVB9oHbgcbv)
 3. Kontrollstrukturen: Verzweigungen und Schleifen
-    - [Git-Repository](https://code.frickelbude.ch/m346/go-3-branching-loops)
+    - [Git-Repository](https://github.com/patrickbucher/m346-go-exercises/blob/master/go-3-exercises.md)
     - [YouTube-Playlist](https://www.youtube.com/watch?v=_DWpLdgVK-o&list=PLoID6wkkuS3f1XZOcOBdKLDZAGVvH21NB)
 4. Funktionen
-    - [Git-Repository](https://code.frickelbude.ch/m346/go-4-functions)
+    - [Git-Repository](https://github.com/patrickbucher/m346-go-exercises/blob/master/go-4-exercises.md)
     - [YouTube-Playlist](https://www.youtube.com/watch?v=gvn9H363zQU&list=PLoID6wkkuS3f0PTinsKMjZVzOMfVBV2Dc)
 
 ## Fallbeispiel: FrickelCloud
