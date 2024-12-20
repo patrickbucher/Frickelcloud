@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"frickelcloud"
+	"github.com/patrickbucher/frickelcloud"
 )
 
 var newVMs = map[string]frickelcloud.Server{

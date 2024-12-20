@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"frickelcloud"
+	"github.com/patrickbucher/frickelcloud"
 )
 
 var vmsToBeRemoved = []string{
